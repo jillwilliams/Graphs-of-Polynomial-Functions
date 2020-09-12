@@ -1,0 +1,48 @@
+body {
+    font-family: "Quicksand";
+    margin: 25px;
+    background-color: darkblue;
+    color: cyan;
+    font-size: 1.3rem;
+    letter-spacing: 3px;
+}
+h1 {
+    text-align: center;
+    font-size: 1.5rem;
+    letter-spacing: 3px;
+}
+a {
+    color: white;
+}
+#pic1, #pic2, #pic3, #pic4, #pic5 {
+    width: 30%;
+    height: auto;
+    margin: 15px 35%;
+    border: 1px red solid;
+    outline: 2px cyan solid;
+}
+#pic6, #pic7, #pic8 {
+    width: 50%;
+    height: auto;
+    margin: 15px 25%;
+    border: 1px red solid;
+    outline: 2px cyan solid;
+}
+#btn1, #btn2, #btn3, #btn4 {
+    width: 5%;
+    height: auto;
+    font-size: 1.2rem;
+    padding: 5px;
+    margin: 15px;
+    border: 1px red solid;
+    outline: 2px cyan solid;
+}
+iframe {
+    margin: 15px 33%;
+    border: 1px red solid;
+    outline: 2px cyan solid;
+}
+footer {
+    text-align: center;
+    font-size: 1rem;
+}
